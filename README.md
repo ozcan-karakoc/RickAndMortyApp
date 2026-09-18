@@ -33,7 +33,7 @@ Proje şu anda React Native başlangıç yapısını içeriyor. Ürün özellikl
 ### Çalıştırma
 
 ```bash
-git clone https://github.com/Nefes45/RickAndMortyApp.git
+git clone https://github.com/ozcan-karakoc/RickAndMortyApp.git
 cd RickAndMortyApp
 npm install
 npm start
@@ -71,7 +71,7 @@ The project currently contains the React Native starter structure. Product featu
 ### Run locally
 
 ```bash
-git clone https://github.com/Nefes45/RickAndMortyApp.git
+git clone https://github.com/ozcan-karakoc/RickAndMortyApp.git
 cd RickAndMortyApp
 npm install
 npm start
@@ -88,4 +88,4 @@ npm run ios
 ## Author
 
 **Özcan Karakoç** — Full-Stack Software Developer  
-[GitHub](https://github.com/Nefes45)
+[GitHub](https://github.com/ozcan-karakoc)
